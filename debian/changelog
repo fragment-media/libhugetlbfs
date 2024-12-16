@@ -1,3 +1,9 @@
+libhugetlbfs (2.24-1.1) UNRELEASED; urgency=medium
+
+  * Patch line length
+
+ -- Chris Ruvolo <chris.ruvolo@fragmnt.com>  Mon, 16 Dec 2024 17:32:06 -0500
+
 libhugetlbfs (2.24-1) unstable; urgency=medium
 
   * New upstream version 2.24
